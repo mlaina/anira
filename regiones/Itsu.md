@@ -1,0 +1,23 @@
+# Itsu
+
+El desierto de Itsu, arenoso y letal. Está lleno de zonas rocosas desgastadas por los vientos. Hay una ciudad en el centro, cerca de una zona montañosa.
+
+La ciudad está compuesta de 18 barrios rodeados por una gruesa, pero no demasiado alta muralla de color rojizo. Las calles tienen aberturas en las zonas laterales, con escaleras que bajan a una calle subterránea paralela a la superior pero justo debajo. Toda la ciudad tiene por debajo un gran número de túneles y zonas subterráneas. Hay grandes mercados en estas áreas. Y muchos de los habitantes de Itsu viven bajo tierra. Por lo general, prácticamente la mayoría de los habitantes son humanos. También hay un puñado de Vyries, que suelen estar lo suficientemente listos como para estar bien posicionados dentro del mundo económico de la ciudad.
+
+En la parte más antigua, en la cara sur. El muro es muy viejo y hay pedazos que se han caído con el paso de distintas batallas a lo largo de muchos siglos. Desde hace ya años, por un agujero que forma un pequeño arco con el suelo se suelen colar en la ciudad una manada de Ripsos.
+
+Los Ripsos son pequeños depredadores, un poco más grandes que los perros, generalmente carroñeros y cobardes pero sin embargo, si están desesperados o nerviosos pueden matar a un humano con facilidad.
+Han ido cogiendo el hábito durante ya casi cinco generaciones de entrar por las noches a la ciudad. y recorrer el barrio sur en silencio, y con cuidado de no molestar a sus habitantes. Hasta la plaza de los carniceros. Allí distintos carniceros depositan la carne que no van a utilizar y se la ofrecen a los Ripsos. Los Ripsos parecen aceptar las normas dentro de la ciudad.
+
+Más en el norte la ciudad está mejor defendida y hay varios puestos de vigilancia a lo largo de la muralla.
+ Kilómetros más al norte fuera de las murallas, las zonas rocosas del Itsu se levantan.  Entre ellas una pequeña pero alta montaña destaca. Docenas de soldados patrullan los alrededores y desde arriba observa en la lejanía la ciudad bajo la mirada del conde de Gabara.
+
+---
+Actualmente:
+
+Recientemente se ha oído que la banda de GoEtsu ha dejado entrar a un puñado de Tulgur en la ciudad. Es fácil esconderse por los túneles lo que hace que las autoridades no puedan tener el control absoluto.
+La ciudad acaba de sufrir un duro golpe. Dos bandas de la ciudad han tenido un enfrentamiento. Dejando un barrio entero de la ciudad destrozado. Dos bandas que en un principio eran la misma, se enfrentaban a el Conde de Gabara. Legítimo señor de la región que ocupa el desierto de Itsu. El conde, y la nobleza que le acompaña, viven a las afueras de la ciudad en un palacio que está esculpido por enanos en una de las grandes elevaciones rocosas del desierto de Itsu. Su ejército mantiene el orden en la ciudad. Pero una parte de los habitantes no estuvo de acuerdo con las decisiones del conde, dando lugar a una pequeña rebelión. Un extranjero, GoEtsu un Naggar que había vivido en los bosques meridianos de los Yll y que traía consigo a sus dos jóvenes hijos, tomó fuerza y despertó la llama de la ira y la sensación de injusticia en muchos habitantes de la ciudad de Itsu. Sus hijos, dos gemelos adolescentes que con el transcurso de los años ganaron el respeto de los guerrilleros rebeldes de su padre, eran medio Naggar medio Yll las marcas de su cara eran negras, pues no tenían árbol en ningún bosque sagrado. Pero con el tiempo el tono radical de GoEtsu se fue apagando, y las relaciones con las autoridades cada vez eran más mesuradas. Pero uno de sus hijos no estaba de acuerdo con él, y se enfrentó abiertamente contra su padre. Muchos miembros de la organización decidieron seguir al hijo de GoEtsu. Y surgió un enfrentamiento constante entre padre e hijo. Cada vez más cosas les distanciaba y empezaron a ser algo más que rivales. Los hermanos han tomado posiciones muy importantes y son más agresivos que nunca a la hora de dirigir a sus bandas.
+
+La ciudad acaba de sufrir un duro golpe. Las dos organizaciones han tenido el mayor enfrentamiento que han soportado desde su división. Y ha acabado con el asesinato de GoEtsu a manos de su propio hijo. Las autoridades del condado de Gabara intentan sofocar los enfrentamientos que han producido incendios en algunos barrios  y la muerte de varios civiles inocentes. En un intento desesperado por contener el caos y el desastre, el Conde ha mandado una petición de ayuda al Armentum Proelio, los Amar han enviado a seis guerreros kretus con la esperanza de resolver el conflicto y llevar ante el Armentum a los responsables del sufrimiento de la ciudad de Itsu.
+
+## [Index](../index.md)
