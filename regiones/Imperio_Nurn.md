@@ -22,4 +22,4 @@ Huma duerme en un gran letargo.
 
 Al despertar llega al punto de encuentro donde Ursa le espera, en la cima de la montaña. Pero no está dispuesto a terminar allí. Lucha junto con un puñado de inhumanos juramentados, todos mueren, incluido Ursa. Pero antes de que Huma le mate como venganza se abre en canal, su sangre cae y su poder huye buscando otro receptor. Se vuelve débil al instante un mortal más. Huma ruge de ira. Se da la vuelta para volar y antes de despegar su cola destroza lo que queda de Ursa.
 
-## [Index](../index.md)
+## [Index](../README.md)

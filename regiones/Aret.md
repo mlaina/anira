@@ -29,4 +29,4 @@ Actualmente
 El silmarita del hielo ha reunido a sus huestes y se moviliza hacia el sur. Una avanzada llega a la península de [Tarsos](./lugares/Tarsos.md) en la región de [Theris](Theris.md) por el recién construido puente de hielo, cuya existencia Theris desconoce. Mientras tanto los Ochoas se reúnen con los generales del Silmarita que traen consigo a numerosos teelanes amaestrados para la guerra.
 El primer objetivo del silmarita es establecer su base de operaciones en Garu que al no tener un gobierno ni ejército propios es un objetivo militar sencillo, y después marchar contra Theris
 
-## [Index](../index.md)
+## [Index](../README.md)

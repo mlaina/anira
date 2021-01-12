@@ -14,4 +14,4 @@ La región es montañosa y en ella hay numerosas zonas extasiadas y ruinas.
 Que controla el reino de los Numari. Que gozan de una posición cómoda de poder.
 Theim es un legendario asesino. Un inmortal juramentado al rey de Coria.
 
-## [Index](../index.md)
+## [Index](../README.md)

@@ -16,4 +16,4 @@ Al otro lado de la grieta en el mar superior enfrente de Táos se halla el Sauce
 
 Para acceder a la ciudad de Táos, es costumbre atarse con plomo los pies y dejarse caer hasta las profundidades desde los muelles rojos de la isla principal.
 
-## [Index](../index.md)
+## [Index](../README.md)

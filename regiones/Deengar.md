@@ -19,4 +19,4 @@ En el bosque también viven dos dragones, que han absorbido características de 
 Actualmente
 Los Yll prestan ayuda a sus aliados de la liga Kovax y Fireon para frenar la invasión de las Ssilvaris, en Anfiros. Mientras tanto Elkorn, el silmarita de la caza, recluta a los urenor en Durdurein para destrozar el bosque de Irithin, su rival por naturaleza.
 
-## [Index](../index.md)
+## [Index](../README.md)

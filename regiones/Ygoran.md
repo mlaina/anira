@@ -15,4 +15,4 @@ La pesca en todo el continente implica grandes sumas de dinero, por lo que Ygora
 
 Las espinas de las grandes piezas son vendidas a reinos como Coria o el Imperio Nurn que las utilizan para exhibirlas en los grandes palacios pasando por los mejores artesanos de Ygoran que las tallan y decoran.
 
-## [Index](../index.md)
+## [Index](../README.md)

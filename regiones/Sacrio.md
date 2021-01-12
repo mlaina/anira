@@ -6,4 +6,4 @@ La sociedad es más tolerante respecto a la igualdad que Siphias, debido a las r
 
 Su capital, la ciudad costera, crece exponencialmente, caótica amontonándose cada vez más.
 
-## [Index](../index.md)
+## [Index](../README.md)

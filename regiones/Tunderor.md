@@ -10,4 +10,4 @@ Es un hábitat muy boscoso y húmedo. Con fuertes desniveles y zonas rocosas.
 Actualmente
 La ambición de Elkorn le lleva a buscar la sangre de su enemiga natural Irithin en el bosque de Deengar tiene el apoyo del Mallor, pero no son suficientes Duregar como para hacer una incursión con éxito en el bosque de Deengar y vencer a los Yll. Por lo que Elkorn planea reclutar a los Úrenor de Dúrdurein y reclamar la posición de repercusión que merece el silmarita de la caza en el continente del oeste.
 
-## [Index](../index.md)
+## [Index](../README.md)

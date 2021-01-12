@@ -12,4 +12,4 @@ Es la ciudad natal de Ceuril que tiene numerosos contactos entre las bandas de m
 
 Una ciudad con mucha diversidad racial. Y con muchos conflictos internos, que la familia Numari no es capaz de resolver.
 
-## [Index](../index.md)
+## [Index](../README.md)

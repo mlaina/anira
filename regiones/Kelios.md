@@ -18,4 +18,4 @@ Astor partió desde Indra en busca del Poisé del silmarita del agua.
 
 En Kelios hay tres templos del agua. En zonas extasiadas, entre los lagos y ríos de la región.
 
-## [Index](../index.md)
+## [Index](../README.md)

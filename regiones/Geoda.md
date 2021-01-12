@@ -20,4 +20,4 @@ Geoda ha brindado su apoyo a la liga Kovax, en especial a Amartoh en un conflict
 
 Por otra parte como pago por haber ayudado a Amaroth, el silmarita pide a Maelor, llevar a su hija a un lugar seguro en la luna de Myl.
 
-## [Index](../index.md)
+## [Index](../README.md)

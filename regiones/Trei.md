@@ -24,4 +24,4 @@ Hace unos años en el reino de Coria encontraron a una letal criatura de larga c
 Actualmente: La relación entre theris y trei está muy tensa, un escuadrón de Qüintar han intentado dar caza a uno de los dragones que están bajo la protección del trior. Los anvur han mandado avisos a la reina de Theris para que no admita la caza en Trei de sus guerreros, pero no han recibido respuesta. La situación es más tensa que nunca.
 Al acabar la invasión oscura fue destinado un pequeño ejército de anvur a vigilar y custodiar el cráter negro de Untor para no permitir la salida de uxos, creando un perímetro de seguridad.
 
-## [Index](../index.md)
+## [Index](../README.md)

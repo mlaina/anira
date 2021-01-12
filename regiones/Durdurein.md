@@ -13,4 +13,4 @@ Es común que cuando llegan noticias de que hay una guerra en algún lugar una t
 
 Para los Urenor es un honor morir en la batalla, muchas veces los Drakkar y algunos Laeknir toman una sustancia blanca antes de la batalla que les produce euforia. Los Valder siempre permanecen fríos e impasibles con el pulso lento para acertar cualquier objetivo a gran distancia.
 
-## [Index](../index.md)
+## [Index](../README.md)

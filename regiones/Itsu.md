@@ -20,4 +20,4 @@ La ciudad acaba de sufrir un duro golpe. Dos bandas de la ciudad han tenido un e
 
 La ciudad acaba de sufrir un duro golpe. Las dos organizaciones han tenido el mayor enfrentamiento que han soportado desde su división. Y ha acabado con el asesinato de GoEtsu a manos de su propio hijo. Las autoridades del condado de Gabara intentan sofocar los enfrentamientos que han producido incendios en algunos barrios  y la muerte de varios civiles inocentes. En un intento desesperado por contener el caos y el desastre, el Conde ha mandado una petición de ayuda al Armentum Proelio, los Amar han enviado a seis guerreros kretus con la esperanza de resolver el conflicto y llevar ante el Armentum a los responsables del sufrimiento de la ciudad de Itsu.
 
-## [Index](../index.md)
+## [Index](../README.md)

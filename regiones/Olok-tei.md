@@ -6,4 +6,4 @@ Se aliaron con Yuc-Tu al inicio de la invasión oscura, ellos construyeron y dis
 
 Son los únicos que han conseguido controlar la energía de la tierra de una arteria y redirigirla. Y crear una estructura en espiral para conectarla.
 
-## [Index](../index.md)
+## [Index](../README.md)

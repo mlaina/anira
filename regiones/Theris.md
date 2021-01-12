@@ -28,4 +28,4 @@ La reina ha permitido todos los caprichos de los jóvenes Qüintar, que indiscip
 
 La única opción que tiene el pueblo de Theris para sobrevivir es huir al sur, a las montañas. Donde pueden recibir el apoyo de Geoda y de los Anvur.
 
-## [Index](../index.md)
+## [Index](../README.md)

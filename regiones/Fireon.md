@@ -21,4 +21,4 @@ Circulan rumores insinuantes afirmando que el rey pretende unir a Preonis y a An
 
 El rey tiene como guardaespaldas a Girastar el sin lengua, un inmortal.
 
-## [Index](../index.md)
+## [Index](../README.md)
