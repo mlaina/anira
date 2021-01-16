@@ -16,4 +16,4 @@ Urz, el líder de los Uxos el más anciano, fue heraldo del caos, llevó a los u
 
 Uo`rn la encontraron al nacer unos naggar en la frontera de Coria, en Amaroth la reclamaron para recibir formación. Y ahora es uno de los mejores guerreros Kretus.
 
-## [Index](../README.md)
+## [Index](./README.md)

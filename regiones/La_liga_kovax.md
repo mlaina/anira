@@ -7,4 +7,4 @@ Es la región más poblada del continente. En ella habitan multitud de razas que
 - Anfiros
 - Eco
 
-## [Index](../README.md)
+## [Index](./README.md)

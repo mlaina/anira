@@ -14,4 +14,4 @@ La entrada es la boca del Zoocante, está adornada con pinturas azules. Dos vig�
 
 La líder de la ciudad Kareth, fue marcada por un grupo de úrenor de Dúrdurein a los que mató sin piedad.
 
-## [Index](../README.md)
+## [Index](./README.md)

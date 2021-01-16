@@ -13,4 +13,4 @@ En este bosque nacieron Ilnadir y Velerian, sin estar ligados a ningún Harel po
 
 Vail más tarde se asentará en una isla al norte de Saebal donde experimentará y ampliará sus conocimientos sobre los planos oníricos y el poisé.
 
-## [Index](../README.md)
+## [Index](./README.md)

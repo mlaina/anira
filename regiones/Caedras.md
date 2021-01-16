@@ -19,4 +19,4 @@ En el territorio de Caedras hay distintas zonas extasiadas, como el Cordón y el
 
 Cada tribu tiene un líder y son respetuosos, las ley que rige es la del ojo por ojo, sin embargo son flexibles y a veces resuelven por sí solos los conflictos, sin recurrir a un juicio
 
-## [Index](../README.md)
+## [Index](./README.md)

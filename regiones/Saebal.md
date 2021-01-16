@@ -9,4 +9,4 @@ Es una región exclusivamente humana, pero de vez en cuando en los puertos se ve
 Mae, vivió toda su infancia en esta ciudad y consiguió estar en el top 1 del ranking de la liga Lau, y capturó a un Pulka convirtiéndose así en el líder de los Seiun, al retar a su anterior líder, un corpulento, tatuado y obeso hombre que era capaz de aguantar la respiración bajo el agua mucho más tiempo de lo normal. Tiempo después conoció a Ildrian, un valagost principe de Táos el archipiélago de la grieta. Ildrian se convirtió en su mejor amigo y tiempo después le ofreció ir con él a Amaroth, oferta que Mae aceptó.
 
 
-## [Index](../README.md)
+## [Index](./README.md)

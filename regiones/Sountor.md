@@ -14,4 +14,4 @@ Es una raza astuta, y son considerados peligrosos en todos los estados.
 
 Hay una banda de Tulgur, que cada vez tiene más poder, controlada por un pequeño y muy inteligente Berej.
 
-## [Index](../README.md)
+## [Index](./README.md)

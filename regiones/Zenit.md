@@ -8,4 +8,4 @@ Coria se cerró en banda a la invasión y protegió sus fronteras al igual que G
 
 Al principio de la guerra Zenit proclamó su independencia de Coria y de las colonias de Neidimia.
 
-## [Index](../README.md)
+## [Index](./README.md)

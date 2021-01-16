@@ -19,4 +19,4 @@ Una especialidad muy valorada de las múltiples formaciones de Asnar es la de lo
 
 El mejor ejemplo es [Zero](../personajes/Zero.md), un humano varón que tuvo la oportunidad de formar parte del triángulo de Asnar, sin embargo se unió a la tripulación de un barco en el que hizo muy buena amistad con un arquero, Zero le indicaba cuánto debía de tensar y a qué altura debía hacerlo a pesar de no ser él el que disparaba. También optimiza el orden de la cubierta del barco y mediante algoritmos daba instrucciones de las labores de los marineros para que fuesen más eficientes.
 
-## [Index](../README.md)
+## [Index](./README.md)

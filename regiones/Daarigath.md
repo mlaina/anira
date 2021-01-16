@@ -14,4 +14,4 @@ En estos grandes pozos y valles hay enormes criaturas a las que dan caza.
 
 Es frecuente que hagan incursiones en suelo [Soúntor](./Sountor.md) y masacren algún pequeño asentamiento. Desprecian abiertamente a los Tulgur, pero no disponen de la misma capacidad militar que ellos, son muy pocos y aprecian mucho más sus vidas.
 
-## [Index](../README.md)
+## [Index](./README.md)

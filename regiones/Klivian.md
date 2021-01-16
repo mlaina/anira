@@ -11,4 +11,4 @@ Esta sabia que utilizan para su tinte azul, tiene efectos anestésicos, y alguno
 
 Dulon es uno de los dragones más poderosos del continente, tiene una enorme capacidad telepática.
 
-## [Index](../README.md)
+## [Index](./README.md)
