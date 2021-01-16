@@ -1,9 +1,9 @@
 # Durdurein
 
-La cuna del pueblo Urenor.
-Humanos ligeramente más altos y más fuertes, toda su cultura gira entorno a unas criaturas llamadas Zoocantes, donde viven como nómadas. Los Zoocantes son leviatanes que pueden alcanzar más de 60 codos de altura en su edad adulta.
+La cuna del pueblo [Urenor](../colectivos/razas/Urenor.md).
+Humanos ligeramente más altos y más fuertes, toda su cultura gira entorno a unas criaturas llamadas [Zoocantes](../criaturas/Zoocantes.md), donde viven como nómadas. Los Zoocantes son leviatanes que pueden alcanzar más de 60 codos de altura en su edad adulta.
 
-La única ciudad de Dúrdurein está en el gran valle de Kalla. En el centro del valle en una elevación rocosa. Allí los ancianos educan a los niños, que no están preparados para luchar y viajar en los Zoocantes. La ciudad sagrada de Hedyr, donde se hacen rituales y sacrificios en nombre del silmarita de la caza. Las tribus se dividen por zoocantes que son totalmente autónomos. No obstante los Urenor trabajan como mercenarios que contratan paises en guerra. Guerreros muy caros y eficientes.
+La única ciudad de Dúrdurein está en el gran valle de [Kalla](./lugares/Kalla.md). En el centro del valle en una elevación rocosa. Allí los ancianos educan a los niños, que no están preparados para luchar y viajar en los Zoocantes. La ciudad sagrada de [Hedyr](./lugares/Hedyr.md), donde se hacen rituales y sacrificios en nombre del silmarita de la caza. Las tribus se dividen por zoocantes que son totalmente autónomos. No obstante los Urenor trabajan como mercenarios que contratan paises en guerra. Guerreros muy caros y eficientes.
 
 Cada tribu está dividida en tres gremios, los Laeknir van tatuados de blanco (pastores de los zoocantes), los Valder marcados de azul oscuro (arqueros impasibles, que no se alteran por nada) y por último los Drakkar que van marcados de rojo son guerreros armados con hachas, muy temerarios y en muchos lugares se considera que estos guerreros están en el límite de la locura, luchan descolgandose de los zoocantes con unas lianas elásticas que atan a las alforjas de sus bestias.
 
